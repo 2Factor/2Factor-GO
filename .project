@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>m2factor</name>
+	<comment>This file was automatically generated for 2Factor by APIMATIC BETA v2.0 on 02/18/2016</comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.googlecode.goclipse.goBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.googlecode.goclipse.core.goNature</nature>
+	</natures>
+</projectDescription>
